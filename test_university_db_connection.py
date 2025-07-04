@@ -4,7 +4,7 @@ import pymysql
 DB_SETTINGS = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Nadiy512002',
+    'password': '',
     'database': 'UniversityTimetabling'
 }
 
