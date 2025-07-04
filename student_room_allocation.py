@@ -130,7 +130,7 @@ if __name__ == '__main__':
         conn = pymysql.connect(
             host='localhost',
             user='root',
-            password='Nadiy512002',
+            password='',
             database='UniversityTimetabling'
         )
         term = int(input("Enter term for allocation (1 or 2): ").strip())
