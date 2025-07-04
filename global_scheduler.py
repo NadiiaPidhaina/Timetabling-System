@@ -1,7 +1,7 @@
 import copy
 import random
 
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 from database import get_available_rooms
 
 
