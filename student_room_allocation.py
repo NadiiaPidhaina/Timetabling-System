@@ -1,5 +1,5 @@
 import json
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 from database import get_location_details
 
 
