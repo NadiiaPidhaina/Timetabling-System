@@ -2,7 +2,7 @@ import json
 
 import pymysql
 
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 
 
 def load_final_schedule():
