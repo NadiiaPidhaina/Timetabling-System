@@ -2,7 +2,7 @@ import json
 
 import pymysql
 
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 from database import (
     get_course_info,
     get_subject_details_for_course,
