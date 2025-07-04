@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtGui import QColor, QBrush, QFont
 from PyQt5.QtCore import Qt
 
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 from database import (
     get_subject_details_for_course,
     get_professor_name,
