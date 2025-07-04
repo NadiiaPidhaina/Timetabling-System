@@ -1,7 +1,7 @@
 import json
 import pymysql
 
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 from database import get_location_details, get_travel_time, get_subject_details_for_course, cache_travel_times
 
 
