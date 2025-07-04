@@ -1,6 +1,6 @@
 import pymysql
 import json
-from config import TIME_SLOTS
+from time_slot import TIME_SLOTS
 
 
 # Helper: Retrieve full location details for a room_id.
