@@ -77,7 +77,7 @@ class TimetableWindow(QMainWindow):
             conn = pymysql.connect(
                 host='localhost',
                 user='root',
-                password='Nadiy512002',
+                password='',
                 database='UniversityTimetabling'
             )
             travel_map = cache_travel_times(conn)
