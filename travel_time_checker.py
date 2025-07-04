@@ -94,7 +94,7 @@ def main():
     conn = pymysql.connect(
         host='localhost',
         user='root',
-        password='Nadiy512002',
+        password='',
         database='UniversityTimetabling'
     )
 
